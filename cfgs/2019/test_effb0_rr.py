@@ -18,7 +18,7 @@ def init(mdlParams_):
 
     ### Model Selection ###
     mdlParams['model_type'] = 'efficientnet-b0'
-    mdlParams['dataset_names'] = ['official_rez3_ll']#,'sevenpoint_rez3_ll']
+    mdlParams['dataset_names'] = ['official']#,'sevenpoint_rez3_ll']
     mdlParams['file_ending'] = '.png'
     mdlParams['exclude_inds'] = False
     mdlParams['same_sized_crops'] = False
