@@ -6,6 +6,8 @@ We achieved first place in both tasks: ([Leaderboards](https://challenge2019.isi
 
 Arxiv paper: https://arxiv.org/abs/1910.03910
 
+Please cite our MethodsX article if you make use of our work: https://doi.org/10.1016/j.mex.2020.100864
+
 ### Usage
 
 Here, we explain the basic usage of our code. Note that we used additional datasets that need to be prepared in a similar way. Most of it is based on our [last year's approach](https://github.com/ngessert/isic2018).
